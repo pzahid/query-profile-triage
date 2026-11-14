@@ -1,0 +1,3 @@
+{"query_id":"1a2b-demo","total_ms":125000,"planning_ms":45000,"queue_ms":500,
+ "phases":[{"name":"05-xx-HASH_JOIN","max_ms":80000,"avg_ms":9000,"spilled_bytes":1073741824}],
+ "reflections_considered":3,"reflections_used":0}
